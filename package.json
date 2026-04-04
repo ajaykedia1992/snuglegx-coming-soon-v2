@@ -10,7 +10,7 @@
     "preview": "vite preview --host",
     "check": "tsc --noEmit",
     "format": "prettier --write .",
-    "build:pages": "vite build --base=/snuglegx-coming-soon-v2/"
+    "build:pages": "vite build --base=/"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
